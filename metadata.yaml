@@ -1,5 +1,8 @@
 _repo: Clemencia-Novela-de-costumbres_60284
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 60284-h/images/cover.jpg
 creator:
   author:
     agent_name: Caballero, Fernán
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7378
     wikipedia: http://en.wikipedia.org/wiki/Fern%C3%A1n_Caballero
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60284#Clemencia-Novela-de-costumbres
 gutenberg_issued: '2019-09-12'
 gutenberg_type: Text
 identifiers:
